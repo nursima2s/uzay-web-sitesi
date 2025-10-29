@@ -8,3 +8,4 @@ Web sitesi uzay ve gezegenler hakkında bilgilendirme amaçlıdır.
 Geliştirici
 Hazırlayan: Nursima Aminci  
 📧 E-posta: nursimamnc@gmail.com
+dosylara html ve css içindedir vize klasörü yanlıştır.
